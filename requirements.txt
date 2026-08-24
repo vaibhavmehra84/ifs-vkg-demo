@@ -1,0 +1,10 @@
+pymongo>=4.6.0
+langchain>=0.2.0
+langchain-anthropic>=0.1.15
+langchain-mongodb>=0.1.0
+langgraph>=0.1.0
+langsmith>=0.1.0
+streamlit>=1.35.0
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+langchain-voyageai>=0.4.0
